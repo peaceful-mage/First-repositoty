@@ -1,2 +1,2 @@
-Hello World
-Hello Git
+The test program
+The first change
